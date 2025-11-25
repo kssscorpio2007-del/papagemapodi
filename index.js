@@ -1,7 +1,7 @@
 const imagesArray = [
-        '/img/bird.png',
-        '/img/skaut.jpg',
-        '/img/orig.jpg'
+        'bird.png',
+        'skaut.jpg',
+        'orig.jpg'
     ];
 
     let imageIndex = 0;
@@ -17,3 +17,4 @@ const imagesArray = [
             imageIndex = 0;
         }
     });
+
